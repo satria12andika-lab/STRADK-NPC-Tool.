@@ -1,0 +1,1 @@
+# STRADK-NPC-Tool.
